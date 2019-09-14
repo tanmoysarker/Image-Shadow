@@ -1,6 +1,6 @@
 {
   "name": "imageshadower",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Simple image shadow for non designers",
   "main": "Index.js",
   "scripts": {
