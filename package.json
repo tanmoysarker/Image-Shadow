@@ -1,0 +1,22 @@
+{
+  "name": "imageshadower",
+  "version": "1.0.0",
+  "description": "Simple image shadow for non designers",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmoysarker/Image-Shadow.git"
+  },
+  "keywords": [
+    "shadow"
+  ],
+  "author": "Tanmoy Sarker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanmoysarker/Image-Shadow/issues"
+  },
+  "homepage": "https://github.com/tanmoysarker/Image-Shadow#readme"
+}
