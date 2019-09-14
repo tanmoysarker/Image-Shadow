@@ -4,6 +4,7 @@ A simple npm package for using shadow effect on images
 Get perfect shadows every time for the non-designer
 # Instalation
 npm i imageshadower
+
 Then ...
 import { imageShadow } from "imageShadow";
 
