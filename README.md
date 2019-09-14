@@ -6,6 +6,7 @@ Get perfect shadows every time for the non-designer
 npm i imageshadower
 
 Then ...
+
 import { imageShadow } from "imageShadow";
 
 imageShadow({
