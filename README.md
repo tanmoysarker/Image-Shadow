@@ -7,13 +7,13 @@ npm i imageshadower
 
 Then ...
 
-import { imageShadow } from "imageShadow";
+import { imageshadow } from "imageshadow";
 
-imageShadow({
+imageshadow({
     shadow_type: "soft",
     padding: false
 });
 # Options
-imageShadow supports 2 options, noth of which are optional:
+imageshadow supports 2 options, noth of which are optional:
 shadow_type - hard | soft (Defaults to soft)
 padding - boolean (Defaults to false)
